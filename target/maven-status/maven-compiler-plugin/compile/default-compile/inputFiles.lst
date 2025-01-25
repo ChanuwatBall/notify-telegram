@@ -1,0 +1,12 @@
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/TelegramApplication.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/controller/AppController.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/dto/ChatDTO.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/dto/MessageFromDTO.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/dto/PhotoDTO.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/dto/ResultMessageDTO.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/dto/ResultPhotoDTO.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/dto/SendMessageResDTO.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/dto/SendPhotoResDTO.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/model/Account.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/service/HttpService.java
+/Users/andamanmacpro/Documents/Project/Backend/telegram/src/main/java/at/notify/service/TelegramService.java
